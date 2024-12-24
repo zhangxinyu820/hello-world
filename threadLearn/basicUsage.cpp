@@ -1,2 +1,2 @@
-#include<iostram>
+#include<iostream>
 #include<thread>
